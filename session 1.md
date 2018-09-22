@@ -1,15 +1,15 @@
 # Install Anaconda
 * Install Python for 3.6
-This creates a new cond environment
-``conda create --name ml``
-This activates the cond environment you just created
-``activate ml``
-This is the list of packages you need.
-``conda install tensorflow``
-``conda install numpy``
-``conda install keras``
-``conda install jupyter``
-``conda install matplotlib``
+This creates a new cond environment  
+``conda create --name ml``  
+This activates the cond environment you just created  
+``activate ml``  
+This is the list of packages you need.  
+``conda install tensorflow``  
+``conda install numpy``  
+``conda install keras``  
+``conda install jupyter``  
+``conda install matplotlib``  
 # AI v ML
 Artificial Intelligence is the pursuit of creatings programs with the facade (until the robots take over) of real intelligence. The general goal is human level, although some seek to go beyond.
 Machine Learning, is the pursuit of artificially intelligent systems using data to learn.
